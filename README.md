@@ -1,7 +1,7 @@
 # Fit-Lift
 
 To Run the Website :- 
-i. Clone the repo \n
+i. Clone the repo <br />
 ii. in terminal where you clonned the repo type 'npm i' this will install all the packages
 iii. then type 'npm run dev'
 
