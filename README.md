@@ -1,13 +1,13 @@
 # Fit-Lift
 
-To Run the Website :- 
+To Run the Website :- <br />
 i. Clone the repo <br />
-ii. in terminal where you clonned the repo type 'npm i' this will install all the packages
-iii. then type 'npm run dev'
+ii. in terminal where you clonned the repo type 'npm i' this will install all the packages <br />
+iii. then type 'npm run dev' <br />
 
-or 
+or <br />
 
-you can see website from here :
+you can see website from here : <br />
 
 https://fit-lift.netlify.app/
 
